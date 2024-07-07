@@ -1,0 +1,53 @@
+body {
+    height: auto;
+    background-color: rgb(232, 232, 232);
+}
+main {
+    width: 75%;
+    margin: 0 auto;
+   
+   
+ 
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+
+header {
+    height: auto;
+    background-color: #f7f7f7;
+    border: solid 1px #3F5BE8;
+    border-radius: 10px;
+    
+}
+
+section { 
+    height: auto;
+    background-color: #ffffff;
+    border: solid 1px #3F5BE8;
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    border-radius: 10px;
+    
+}
+#preguntas {
+    height: auto;
+    background-color: #cbe7e8;
+    border: solid 1px #3F5BE8 ;
+    font-size: 15px;
+}
+img.conteiner{
+   text-align: center;
+   position: left;
+}
+.circulo {
+    border-radius: 50%;
+    background-color: rgb(0, 120, 32);
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+#estilos{
+    text-align: center;
+    justify-content: center ;
+}

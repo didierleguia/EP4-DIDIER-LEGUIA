@@ -1,0 +1,51 @@
+body {
+    height: auto;
+    background-color: rgb(171, 213, 250);
+}
+main {
+    width: 75%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+.formulario {
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+    display: flex;
+}
+header {
+    height: auto;
+    background-color: #f7f7f7;
+    border: solid 1px #3F5BE8;
+    border-radius: 10px;
+    
+}
+#preguntas {
+    height: auto;
+    background-color: #cbe7e8;
+    border: solid 1px #3F5BE8 ;
+    font-size: 15px;
+    border-radius: 10px;
+}
+#mostrar {
+    margin: 630px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: #ffffff;
+    color: #19181a;
+    border-radius: 5px;
+    
+}
+#estilos{
+    text-align: center;
+    justify-content: center ;
+}
+#resultado{
+ text-align: center;   
+ justify-content: center;
+}
+
